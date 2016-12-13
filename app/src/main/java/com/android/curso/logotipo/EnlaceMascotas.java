@@ -19,6 +19,7 @@ public class EnlaceMascotas {
         mascotas.addAll(mascotasAll);
     }
 
+
     public static void clear(){
         mascotas.clear();
     }
