@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Mascotas</string>
     <string name="logotipo">logotipo de compañia</string>
+    <string name="mnombre">Nombre</string>
+    <string name="mraiting">Raiting</string>
+
+    <string name="descripcion_foto_mascota">Foto de la mascota</string>
+    <string name="descripcion_huesito_blanco">Boton de like</string>
+    <string name="descripcion_huesito_color">Imagen de raiting</string>
+
+    <string name="boton_raiting">Raiting</string>
 </resources>
